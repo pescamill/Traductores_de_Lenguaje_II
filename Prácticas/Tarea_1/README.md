@@ -10,4 +10,4 @@ Capaz de identificar identificadores, reales y detectar caracteres no válidos.
 
 # Captura de pantalla del funcionamiento
 
-![Alt text](https://github.com/pescamill/Traductores_de_Lenguaje_II/blob/master/Pr%C3%A1cticas/Tarea_1/funcionamiento.png)
+![Alt text](https://github.com/pescamill/Traductores_de_Lenguaje_II/blob/master/Pr%C3%A1cticas/Tarea_1/captura.png)
