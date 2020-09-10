@@ -1,9 +1,9 @@
 # Tarea 1
 
-Descripción: 
-" Genera un pequeño analizador léxico, que identifique los siguientes tokens (identificadores y números reales) construidos de la siguiente manera:
-identificadores = letra(letra|digito)*
-Real = entero.entero+ "
+Descripción: </br>
+Genera un pequeño analizador léxico, que identifique los siguientes tokens (identificadores y números reales) construidos de la siguiente manera: </br>
+identificadores = letra(letra|digito)* </br>
+Real = entero.entero+  </br>
 
 Realizado en Visual Studio C++ con ayuda del ejemplo del profesor.
 Capaz de identificar identificadores, reales y detectar caracteres no válidos.
