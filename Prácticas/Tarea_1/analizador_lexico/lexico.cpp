@@ -38,7 +38,7 @@ string Lexico::tipoAcad(int tipo) {
 		break;
 
 	case TipoSimbolo::ERROR:
-		cad = "Error: Caracter no aceptado";
+		cad = "Error: Token no Reconocido";
 		break;
 
 	}
@@ -79,13 +79,13 @@ int Lexico::sigSimbolo() {
 				if (esPunto(c)) {
 					cout << c;
 					c = sigCaracter();
-				while (esDigito(c)) {
-					cout << c;
-					c = sigCaracter();
-
-				}
+					while (esDigito(c)) {
+						cout << c;
+						c = sigCaracter();
+					}
 					aceptacion(5);
 				}
+				else if (!esDigito(c) or !esPunto(c)) aceptacion(-1);
 			}
 		else
 			if (c == '$') aceptacion(3);
