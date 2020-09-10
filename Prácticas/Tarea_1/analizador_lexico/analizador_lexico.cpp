@@ -14,7 +14,7 @@ using namespace std;
 int main(int argc, char *argv[]) {
 	
 	Lexico lexico;
-	lexico.entrada("a4j3aa hola1 hola 3 222.2 ++ - 32.2 33.3");
+	lexico.entrada("a4j3aa hola1 888 hola 32.22 ++ - 32.2 33.3");
 
 	cout << "Resultado del Analisis Lexico" << endl << endl;
 	cout << "Simbolo\t\tTipo" << endl;
