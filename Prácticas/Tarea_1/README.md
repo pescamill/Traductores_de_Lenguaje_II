@@ -5,4 +5,4 @@ Descripción:
 identificadores = letra(letra|digito)*
 Real = entero.entero+ "
 
-Realizado en C++ con ayuda del ejemplo del profesor.
+Realizado en Visual Studio C++ con ayuda del ejemplo del profesor.
