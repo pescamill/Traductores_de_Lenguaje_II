@@ -1,0 +1,5 @@
+﻿  analizador_lexico.cpp
+  Lexico.cpp
+c:\users\pablo\source\repos\analizador_lexico\analizador_lexico\lexico.cpp(141): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  analizador_lexico.vcxproj -> C:\Users\Pablo\source\repos\analizador_lexico\Debug\analizador_lexico.exe
