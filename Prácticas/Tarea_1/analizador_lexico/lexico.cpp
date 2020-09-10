@@ -84,8 +84,8 @@ int Lexico::sigSimbolo() {
 					c = sigCaracter();
 
 				}
+					aceptacion(5);
 				}
-				aceptacion(5);
 			}
 		else
 			if (c == '$') aceptacion(3);
