@@ -5,7 +5,7 @@ Genera un pequeño analizador léxico, que identifique los siguientes tokens (id
 identificadores = letra(letra|digito)* </br>
 Real = entero.entero+  </br>
 
-Realizado en Visual Studio C++ con ayuda del ejemplo del profesor.
+Realizado en Visual Studio, C++.
 Capaz de identificar identificadores, reales y detectar caracteres no válidos.
 
 # Captura de pantalla del funcionamiento
