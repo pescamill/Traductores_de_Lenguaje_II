@@ -1,0 +1,15 @@
+﻿  Lexico.cpp
+c:\users\pablo\source\repos\analizador_lexico\analizador_lexico\lexico.cpp(218): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\pablo\source\repos\analizador_lexico\analizador_lexico\lexico.cpp(218): warning C4309: 'argument': truncation of constant value
+c:\users\pablo\source\repos\analizador_lexico\analizador_lexico\lexico.cpp(228): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\pablo\source\repos\analizador_lexico\analizador_lexico\lexico.cpp(228): warning C4309: 'argument': truncation of constant value
+c:\users\pablo\source\repos\analizador_lexico\analizador_lexico\lexico.cpp(425): warning C4018: '>=': signed/unsigned mismatch
+  analizador_lexico.vcxproj -> C:\Users\Pablo\source\repos\analizador_lexico\Debug\analizador_lexico.exe
