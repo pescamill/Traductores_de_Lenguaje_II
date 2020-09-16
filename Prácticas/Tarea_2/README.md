@@ -37,4 +37,4 @@ Capaz de identificar caracteres no válidos y algunos errores en la síntaxis.
 
 # Captura de pantalla del funcionamiento
 
-![Alt text](https://github.com/pescamill/Traductores_de_Lenguaje_II/blob/master/Pr%C3%A1cticas/Tarea_1/captura.png)
+![Alt text](https://github.com/pescamill/Traductores_de_Lenguaje_II/blob/master/Pr%C3%A1cticas/Tarea_2/captura.png)
