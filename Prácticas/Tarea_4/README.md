@@ -1,1 +1,2 @@
 
+Se añadió una pila.
