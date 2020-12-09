@@ -1,0 +1,64 @@
+C:\Users\manue\Documents\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\manue\Documents\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\manue\Documents\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Practica_1\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Practica_1\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\manue\Documents\Practica_1\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\manue\Documents\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\manue\Documents\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\manue\Documents\Practica_1\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Practica_2\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\manue\Documents\Practica_2\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\manue\Documents\Practica_2\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Practica_2\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Practica_2\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\manue\Documents\Practica_2\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\manue\Documents\Practica_2\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\manue\Documents\Practica_2\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\manue\Documents\Practica_2\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Practica_3\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\manue\Documents\Practica_3\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\manue\Documents\Practica_3\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Practica_3\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Practica_3\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\manue\Documents\Practica_3\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\manue\Documents\Practica_3\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\manue\Documents\Practica_3\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\manue\Documents\Practica_3\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\manue\Documents\Sem Traductores 2\Practica_4\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\manue\Documents\Sem Traductores 2\Practica_5\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\manue\Documents\Sem Traductores 2\Practica_6\Practica_1\obj\Debug\Practica_1.pdb
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\Pablo\Desktop\Practica_6\Practica_1\obj\Debug\Practica_1.pdb
